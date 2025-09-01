@@ -43,7 +43,7 @@ http://127.0.0.1:8223/login
 
 ### get
 
-http://127.0.0.1:8223/user/get/<token>
+http://127.0.0.1:8223/user/get/_token_
 
 
 
